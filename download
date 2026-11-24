@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Gurobi licence and solver scratch files
+gurobi.lic
+*.mps
+*.lp
+gurobi.log
+
+# Checker test plans are regenerated on every run
+results/checker_tests/
