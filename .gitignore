@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+gurobi.lic
+*.mps
+*.lp
+gurobi.log
+results/checker_tests/
